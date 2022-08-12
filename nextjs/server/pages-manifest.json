@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/Nav": "pages/Nav.html",
+  "/Sidebar": "pages/Sidebar.html",
+  "/api/eventlist": "pages/api/eventlist.js",
+  "/api/projectlist": "pages/api/projectlist.js",
+  "/calendar/calendar": "pages/calendar/calendar.html",
+  "/calendar/drawer": "pages/calendar/drawer.html",
+  "/": "pages/index.html",
+  "/projectItems": "pages/projectItems.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

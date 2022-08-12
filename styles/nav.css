@@ -1,0 +1,21 @@
+.form-search {
+    position: relative;
+}
+
+.form-search:before {
+    content:'';
+    display: block;
+    width: 14px;
+    height: 14px;
+    background-image: url("/images/glyphicons-halflings.png");
+    background-position: -48px 0;
+    position: absolute;
+    top:12px;
+    left:22px;
+    opacity: .5;
+    z-index: 1000; 
+}
+
+.form-search input {
+    padding-left: 30px;
+}
