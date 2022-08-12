@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"calendar\\calendar.js -> react-modern-drawer":{id:9058,files:["static/chunks/58.b9e33b50f2a1b9c4.js"]}};
