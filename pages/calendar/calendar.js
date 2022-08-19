@@ -438,7 +438,7 @@ export default function App(props) {
                           marginTop: "-2px",
                           marginRight: "10px",
                         }}
-                      />{" "}
+                      />
                       Create content
                     </b>
                   </button>

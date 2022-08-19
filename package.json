@@ -12,6 +12,7 @@
     "deploy": "firebase deploy --only functions:nextjs,hosting"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
     "firebase": "^9.9.2",
     "firebase-admin": "^11.0.1",
